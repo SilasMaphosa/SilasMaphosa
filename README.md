@@ -9,7 +9,6 @@ With a profound interest in technology and a dedication to solving complex probl
 
 Through these projects, I aim to not only highlight my technical capabilities but also provide tangible evidence of my ability to tackle real-world challenges in cybersecurity. Whether you're a potential employer seeking a versatile cybersecurity professional or a fellow enthusiast interested in exploring innovative solutions, I invite you to delve into my portfolio and witness the culmination of my academic achievements and practical experience.
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
