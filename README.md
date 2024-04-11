@@ -13,7 +13,7 @@ Through these projects, I aim to not only highlight my technical capabilities bu
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Router Config and Subnetting(basic)          | Simple Office Networking Project|
+| Router Config and Subnetting(basic)          | <a href="https://github.com/SilasMaphosa/Simple-Office-Networking-Project">Simple Office Networking Project</a>
 | Router Config, Subnetting and Wireless Config | Small Office Home Office(SOHO) Network Design & Implementation Project |
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
