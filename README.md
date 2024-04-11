@@ -15,8 +15,8 @@ Through these projects, I aim to not only highlight my technical capabilities bu
 |-----------------------------------------------|----------------------------|
 | Router Config and Subnetting(basic)          | <a href="https://github.com/SilasMaphosa/Simple-Office-Networking-Project">Simple Office Networking Project</a>
 | Router Config, Subnetting and Wireless Config | Small Office Home Office(SOHO) Network Design & Implementation Project |
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | Detection Lab|
+| Network Traffic Monitoring and Attack Detection | Detection Lab |
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -56,7 +56,7 @@ Through these projects, I aim to not only highlight my technical capabilities bu
 
 ## Projects
 
-- Simple Office Networking Project
+- <a href="https://github.com/SilasMaphosa/Simple-Office-Networking-Project">Simple Office Networking Project</a>
 - SOHO Network Design & Implementation Project
 - Detection Lab
 - SOC Automation Project
